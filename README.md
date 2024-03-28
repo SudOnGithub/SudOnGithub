@@ -29,8 +29,8 @@
 
 </p>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sudongithub&" alt="sudongithub" /> 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SudOnGithub&theme=dark)](https://git.io/streak-stats)
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sudongithub&theme=dark" alt="sudongithub" />
+
 
 ![Snake animation](https://raw.githubusercontent.com/SudOnGithub/SudOnGithub/output/github-contribution-grid-snake-dark.svg)
 
