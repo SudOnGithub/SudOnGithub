@@ -33,5 +33,5 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sudongithub&" alt="sudongithub" /></p>
 
-![Snake animation](https://raw.githubusercontent.com/SudOnGithub/SudOnGithub/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/SudOnGithub/SudOnGithub/output/github-contribution-grid-snake-dark.svg)
 
